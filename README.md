@@ -74,18 +74,6 @@ Chisu is my startup where I’m building AI-driven products and scalable softwar
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=jean0123&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jean0123&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### Closing
 
 **Building AI systems, scalable platforms, and real-world software products.**  
