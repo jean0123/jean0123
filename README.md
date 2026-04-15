@@ -2,7 +2,7 @@
 
 # Hey, I'm Jean Rojas
 
-**Software Engineer | Data Analysis | Cloud Infrastructure**
+**Software Engineer | Cybersecurity | Data Analysis | Cloud Infrastructure**
 
 Vancouver, BC | Originally from Colombia
 
