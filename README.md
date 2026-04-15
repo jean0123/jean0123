@@ -2,9 +2,9 @@
 
 # Hey, I'm Jean Rojas
 
-**Software Engineer | Cybersecurity | Data Analysis | Cloud Infrastructure**
+**Software Engineer · AI Systems · Cloud · Backend · Founder**
 
-Vancouver, BC | Originally from Colombia
+Vancouver, BC · Originally from Colombia 🇨🇴
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-pierre-developer/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Jean_Pierre2011)
@@ -16,61 +16,61 @@ Vancouver, BC | Originally from Colombia
 
 ### About Me
 
-I'm a software engineer who loves building tools that solve real problems. I work across the full stack with a focus on data pipelines, cloud infrastructure, and developer tooling. When I see a tedious process, I automate it.
+I build **scalable backend systems, AI-powered applications, and intelligent software products**.
 
-Currently building at **[Fennec AI](https://www.fennecapp.com)** and shipping open-source projects on the side.
+My focus is on **distributed systems, APIs, cloud infrastructure, and LLM-powered tools**, with a strong interest in building real-world products that combine engineering and AI.
 
----
-
-### Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-**Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Frameworks & Tools**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Data & AI**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+I’m currently building **Chisu**, an AI-focused startup exploring scalable systems and intelligent applications.
 
 ---
 
-### Featured Projects
+### 🚀 Startup — Chisu
 
-#### Open Source
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Applyr](https://github.com/jean0123/applyr-extension) | Chrome extension that uses AI to tailor your resume to job postings on Indeed & LinkedIn | JavaScript, Chrome APIs, AI |
-| [HydroWatch](https://github.com/jean0123/hydrowatch) | Water infrastructure monitoring dashboard with real-time maps and analytics | Python, Django, FastAPI, Leaflet |
-| [CommonCore](https://github.com/jean0123/CommonCore) | Reusable application core template used across multiple projects | Python |
-| [GPT-3 Poem Generator](https://github.com/jean0123/OpenIA_GPT3_PoemGenerator) | AI-powered poem generation using OpenAI GPT-3 | Python, OpenAI |
+Chisu is my startup where I’m building AI-driven products and scalable software systems.
 
-#### Professional — Fennec AI
 | Project | Description | Tech |
-|---------|-------------|------|
-| [Fennec B2B Dashboard](https://github.com/FennecApp) | Enterprise analytics dashboard for B2B clients | TypeScript |
-| [Fennec API](https://github.com/FennecApp) | Backend API powering the Fennec AI platform | TypeScript |
-| [Fennec Landing Page](https://github.com/FennecApp/landingpage) | Company website for fennecapp.com | JavaScript |
+|--------|------------|------|
+| Chisu | AI startup building scalable products, intelligent systems, and modern web platforms | TypeScript |
+| Chyra Platform | Full-stack AI-powered platform with modular backend services, API architecture, and scalable frontend systems | Python, TypeScript |
 
-#### Personal / Side Projects
+---
+
+### 🧠 AI / Systems
+
 | Project | Description | Tech |
-|---------|-------------|------|
-| Parche App | Mobile social app with full backend | Dart (Flutter), JavaScript |
-| Corporate Chatbot | Enterprise chatbot SaaS platform | Python |
-| AllScope | Full-scope project management tool | TypeScript |
+|--------|------------|------|
+| [memcastle](https://github.com/jean0123/memcastle) | High-performance AI memory system with strong benchmark results in long-term memory retrieval - Fork of mempalace | Python |
+| [Applyr](https://github.com/jean0123/applyr-extension) | AI Chrome extension that tailors resumes and automates job applications | JavaScript, LLM APIs |
+
+---
+
+### 🛠️ Backend & Data Systems
+
+| Project | Description | Tech |
+|--------|------------|------|
+| HydroWatch | Real-time water infrastructure monitoring system with maps and analytics | Python, Django, FastAPI |
+| CommonCore| Reusable backend architecture template for rapid system development | Python |
+| Nu Image Medical | Web-based application project | JavaScript |
+
+---
+
+### 💼 Professional — Fennec AI
+
+| Project | Description | Tech |
+|--------|------------|------|
+| Fennec Platform | B2B analytics and AI platform with dashboards, APIs, and internal tooling | Python, TypeScript |
+| AVOP Systems | Internal AI voice platform and tooling for Fennec ecosystem | Python |
+
+---
+
+### 🧪 Other Projects
+
+| Project | Description | Tech |
+|--------|------------|------|
+| Parche App | Social mobile application with full backend system | Flutter, JavaScript |
+| Parche Backend | Backend services for mobile application | Python |
+| Corporate Chatbot SaaS | AI chatbot platform for enterprise use cases | Python |
+| WhatsApp Automation | Messaging automation system | Python |
 
 ---
 
@@ -86,8 +86,7 @@ Currently building at **[Fennec AI](https://www.fennecapp.com)** and shipping op
 
 ---
 
-<div align="center">
+### Closing
 
-*Building things that matter. Open to collaborations and new ideas.*
-
-</div>
+**Building AI systems, scalable platforms, and real-world software products.**  
+Open to collaborations, startups, and interesting technical challenges.
